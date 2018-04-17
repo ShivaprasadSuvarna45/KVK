@@ -1,0 +1,25 @@
+.loginFormContainer{
+	width:50%;
+	margin-top:10%;
+	
+}
+
+.appcontainer{
+	padding:0px;
+	margin:0px;
+}
+
+.headercontainer{
+   background: #21242e;
+   border-bottom: 1px solid #000;
+   width: 100%;
+   z-index: 400;
+   top: 0;
+   height: 60px;
+   position: fixed;
+}
+
+.inner-container{
+	top:60px;
+	position:relative;
+}
